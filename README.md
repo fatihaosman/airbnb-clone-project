@@ -30,3 +30,92 @@ It is part of the **ALX ProFrontend Program** and focuses on building a responsi
 
 The structure will evolve as the project develops:
 
+
+---
+
+## 🎨 UI/UX Design Planning
+
+### 🖌️ Design Goals
+- Create an intuitive and seamless booking flow
+- Maintain a visually consistent and modern layout
+- Ensure fast loading and smooth navigation
+- Prioritize mobile responsiveness for all devices
+
+---
+
+### 🌟 Key Features
+- **Property Search and Filtering:** Users can search for properties by location, price, and amenities.
+- **Detailed Property Viewing:** Each listing includes property images, descriptions, and availability.
+- **Secure Checkout Process:** Users can confirm bookings and payments through a simple checkout page.
+- **User Authentication:** Allows users to sign up, log in, and manage their bookings.
+
+---
+
+### 📄 Primary Pages
+
+| Page | Description |
+|------|--------------|
+| **Property Listing View** | Displays available properties in a grid layout with filters for easy search. |
+| **Listing Detailed View** | Shows complete property details, including images, amenities, and booking options. |
+| **Simple Checkout View** | Provides a streamlined booking confirmation and payment process. |
+
+---
+
+### 💡 Importance of a User-Friendly Design
+A well-designed booking system reduces user frustration and increases engagement.  
+By keeping navigation simple, layouts consistent, and interactions responsive, users are more likely to trust the platform and complete bookings successfully.
+
+---
+
+### 🎨 Figma Design Specifications
+
+**Color Styles:**
+- Primary: `#FF5A5F`
+- Secondary: `#008489`
+- Background: `#FFFFFF`
+- Text: `#222222`
+- Secondary Text: `#717171`
+
+**Typography:**
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px–32px
+- Secondary Text: Circular, Book (400), 14px
+
+---
+
+### 🧠 Importance of Identifying Design Properties
+Understanding and documenting design properties ensures visual consistency throughout the project.  
+Recognizing fonts, color palettes, and spacing in Figma helps developers translate mockups into real, pixel-perfect code.  
+It also makes collaboration between designers and frontend developers smoother and more efficient.
+
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+| Role | Key Responsibilities |
+|------|------------------------|
+| **Project Manager** | Oversees project planning, milestones, and team coordination. |
+| **Frontend Developers** | Implement responsive UI components, integrate APIs, and ensure visual accuracy with the Figma design. |
+| **Backend Developers** | Develop APIs, manage server logic, and handle database interactions. |
+| **Designers** | Create user-friendly Figma mockups and maintain consistency across UI elements. |
+| **QA/Testers** | Test features for bugs, usability, and performance. |
+| **DevOps Engineers** | Manage deployment, CI/CD pipelines, and production environments. |
+| **Product Owner** | Defines product vision, sets priorities, and aligns the team with business goals. |
+| **Scrum Master** | Facilitates Agile ceremonies, removes blockers, and ensures efficient team communication. |
+
+
+
+---
+
+## 🧩 UI Component Patterns
+
+The following reusable UI components will be created for the Airbnb Clone project:
+
+- **Navbar:** For site-wide navigation (logo, search bar, user menu)
+- **Property Card:** Displays property image, price, title, and rating
+- **Filter Bar:** Allows filtering properties by price, type, and location
+- **Booking Form:** Handles booking dates and user info
+- **Footer:** Contains links, contact details, and copyright info
+
+Each component will be modular and reusable across multiple pages to maintain code efficiency and design consistency.
